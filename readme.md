@@ -3,7 +3,7 @@
 ## Introduction
 
 This is free remote access trojan.
-
+(该版本(3.0)停止维护, 最新版为5.0,加入了 HVNC与 注册表编辑器模块，同时改用ws/wss协议通信。)
 ## Architecture:
 
 ### Relationships between classes
